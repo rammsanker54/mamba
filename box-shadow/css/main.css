@@ -1,0 +1,30 @@
+.box-shadow
+{
+    width: 500px;
+    padding: 5px;
+    box-shadow: 10px  5px  5px red;
+     opacity:calc(5)
+}
+
+.text-shadow
+{
+    text-shadow: 2px 10px 10px green;
+}
+.inset
+{
+    
+    width: 250px;
+    padding: 30px;
+    box-shadow: inset 15px 10px 20px greenyellow;
+}
+
+.filter
+{
+    filter:blur(1px);
+
+
+}
+.bright
+{
+    
+}
